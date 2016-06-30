@@ -7,7 +7,7 @@
 <div id="wrapper">
         <header>
         	<div class="container clearfix">
-                <a href="home.html" class="logo"><img src="assets/img/bsava-logo.jpg" alt="bsava logo"></a>
+                <a href="home.html" class="logo"><img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/bsava-logo.jpg" alt="bsava logo"></a>
         
         		<div class="utility">
         

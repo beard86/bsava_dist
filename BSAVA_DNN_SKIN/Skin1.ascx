@@ -2,7 +2,7 @@
    <div id="MainContent">
         <nav class="nav">
             <div class="nav-wrapper clearfix">
-                <a href="home.html" class="logo"><img src="assets/img/lcci-logo-white.png" alt="LCCI logo"></a>
+                <a href="home.html" class="logo"><img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/lcci-logo-white.png" alt="LCCI logo"></a>
                 <ul class="global">
                     <li class="nav-item">
                         <a class="nav-link">MyBSAVA</a>
@@ -21,7 +21,7 @@
                     </li>
                     <li class="nav-item search">
                         <a href="#_" title="Open search" class="btn search" data-open="globalSearchModal">
-                            <img src="assets/img/icons/icon-search.png" alt="search" />
+                            <img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/icons/icon-search.png" alt="search" />
                         </a>
                     </li>
                 </ul>
@@ -45,7 +45,6 @@
     </div>
 </header>
         <div id="Content">
-		<h1>40Fingers Includes Demo Skin 1</h1>
             <div id="ContentPane" class="ContentPane AllPanes" runat="server">
             </div>
         </div>

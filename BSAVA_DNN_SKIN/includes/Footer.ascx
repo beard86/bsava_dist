@@ -1,7 +1,7 @@
 <footer>
     <div class="row">
         <div class="large-3 medium-3 small-12 columns">
-            <a href="home.html" class="logo"><img src="assets/img/bsava-logo.jpg" alt="LCCI logo"></a>
+            <a href="home.html" class="logo"><img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/bsava-logo.jpg" alt="LCCI logo"></a>
         </div>
         <div class="large-3 medium-3 small-12 columns">
                 <ul class="">
