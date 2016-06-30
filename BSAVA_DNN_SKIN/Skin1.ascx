@@ -3,7 +3,12 @@
         <nav class="nav">
             <div class="nav-wrapper clearfix">
                 <a href="home.html" class="logo"><img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/lcci-logo-white.png" alt="LCCI logo"></a>
-                <add name="DDRMenuNavigationProvider" type="DotNetNuke.Web.DDRMenu.DDRMenuNavigationProvider, DotNetNuke.Web.DDRMenu" />
+               <dnn:NAV runat="server" ID="dnnNAV" PopulateNodesFromClient="false" ProviderName="DNNMenuNavigationProvider" IndicateChildren="false" ControlOrientation="Horizontal" CSSControl="AllMenu">
+                    <CustomAttributes>
+                        <dnn:CustomAttribute Name="RenderMode" Value="UnorderedList" />
+                    </CustomAttributes>
+                </dnn:NAV>
+
             </div>
         </nav>
     </div>
