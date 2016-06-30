@@ -3,28 +3,7 @@
         <nav class="nav">
             <div class="nav-wrapper clearfix">
                 <a href="home.html" class="logo"><img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/lcci-logo-white.png" alt="LCCI logo"></a>
-                <ul class="global">
-                    <li class="nav-item">
-                        <a class="nav-link">MyBSAVA</a>
-                    </li>
-                    <li class="nav-item"><a class="nav-link">Membership</a>
-                    </li>
-                    <li class="nav-item"><a class="nav-link">Education</a>
-                    </li>
-                    <li class="nav-item"><a class="nav-link">Congress</a>
-                    </li>
-                    <li class="nav-item"><a class="nav-link">Publications</a>
-                    </li>
-                    <li class="nav-item"><a class="nav-link">Resources</a>
-                    </li>
-                    <li class="nav-item"><a class="nav-link">News</a>
-                    </li>
-                    <li class="nav-item search">
-                        <a href="#_" title="Open search" class="btn search" data-open="globalSearchModal">
-                            <img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/icons/icon-search.png" alt="search" />
-                        </a>
-                    </li>
-                </ul>
+                <add name="DDRMenuNavigationProvider" type="DotNetNuke.Web.DDRMenu.DDRMenuNavigationProvider, DotNetNuke.Web.DDRMenu" />
             </div>
         </nav>
     </div>

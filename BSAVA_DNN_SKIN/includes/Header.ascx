@@ -13,9 +13,10 @@
         
         
         
-        			<a href="#_" title="Join us" class="btn cart light-grey-bg">Cart £69.00</a>
-        
-        			  <a href="#_" title="Log in" class="btn login">Log in</a>
+			        <dnn:LOGIN ID="dnnLOGIN" class="btn cart light-grey-bg" runat="server"></dnn:LOGIN>
+
+		        
+		            <dnn:LOGIN ID="dnnLOGIN" runat="server" class="btn login"></dnn:LOGIN>
         
         
         		</div>
