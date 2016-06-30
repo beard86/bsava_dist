@@ -312,11 +312,11 @@
 			<!--  #include file="Includes/Footer.ascx" -->
         </div>
     </div>
+    <script src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/js/jquery.min.js"></script> 
+    <script src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/js/vendor.js"></script>
+    <script src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/js/app.js"></script>
 </div>
 
-<script src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/js/jquery.min.js"></script> 
-<script src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/js/vendor.js"></script>
-<script src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/js/app.js"></script>
 
 
 
