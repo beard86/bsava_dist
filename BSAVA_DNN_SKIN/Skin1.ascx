@@ -53,7 +53,7 @@
                         <a href="#" class="btn">Become a member</a>
                     </div>
                     <figure>
-                        <img src="assets/img/placeholder/hero-1.png" alt="Sample avatar" />
+                        <img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/placeholder/hero-1.png" alt="Sample avatar" />
                     </figure>
                 </div>
             </section>
@@ -92,7 +92,7 @@
                         <div class="row">
                                     <div class="large-6 medium-6 small-12 ">
                                         <figure>
-                                            <img src="assets/img/placeholder/placehold-publications.png" />
+                                            <img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/placeholder/placehold-publications.png" />
                                         </figure>
                                     </div>
                                     <div class="large-5 medium-5 small-12 columns">
@@ -104,7 +104,7 @@
                         <div class="clearfix row block">
                                     <div class="large-6 medium-6 small-12  right">
                                         <figure>
-                                            <img src="assets/img/placeholder/placehold-about-us.png" />
+                                            <img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/placeholder/placehold-about-us.png" />
                                         </figure>
                                     </div>
                                     <div class="large-5 medium-5 small-12 columns right">
@@ -116,7 +116,7 @@
                         <div class="row">
                                     <div class="large-6 medium-6 small-12 ">
                                         <figure>
-                                            <img src="assets/img/placeholder/placehold-become-member.png" />
+                                            <img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/placeholder/placehold-become-member.png" />
                                         </figure>
                                     </div>
                                     <div class="large-5 medium-5 small-12 columns">
@@ -135,7 +135,7 @@
             
                 <div class="container row  clearfix">
                     <div class="large-6 medium-6 small-12 columns">
-                        <img src="assets/img/placeholder/placehold-news.png" alt="News hero">
+                        <img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/placeholder/placehold-news.png" alt="News hero">
                         <div class="copy large-7 medium-7 small-12 columns rel">
                             <p>Mission Rabies calls for more volunteers to hit 2030 'rabies free world' target</p>
                             <p class="info"><span class="date">7 hours ago</span></p>
@@ -164,7 +164,7 @@
                 <div class="container clearfix row">
                     <div class="large-3 medium-3 small-12 ">
                         <figure>
-                            <img src="assets/img/placeholder/placehold-volunteer.png" alt="News hero">
+                            <img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/placeholder/placehold-volunteer.png" alt="News hero">
                         </figure>
                         <div class="copy">
                             <p>Become a BSAVA volunteer</p>
@@ -174,23 +174,23 @@
                     </div>
                     <div class="large-3 medium-3 small-12 rel">
                         <figure>
-                            <img src="assets/img/placeholder/placehold-petsavers.png" alt="News hero">
+                            <img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/placeholder/placehold-petsavers.png" alt="News hero">
                         </figure>
                         <div class="copy">
                             <p>PetSavers</p>
                             <p class="info">Since 1974 PetSavers has been funding vetinary research</p>
                             <figure>
-                                <img src="assets/img/petsavers-logo.jpg" />
+                                <img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/petsavers-logo.jpg" />
                             </figure>
                             <a href="#_">Visit the website</a>
                         </div>
                         <figure class="abs">
-                            <img src="assets/img/pussy.png" alt="News hero">
+                            <img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/pussy.png" alt="News hero">
                         </figure>
                     </div>
                     <div class="large-3 medium-3 small-12 end">
                         <figure>
-                            <img src="assets/img/placeholder/placehold-regional.png" alt="News hero">
+                            <img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/placeholder/placehold-regional.png" alt="News hero">
                         </figure>
                         <div class="copy">
                             <p>Regional CPD</p>
@@ -202,7 +202,7 @@
                 <div class="container clearfix row">
                     <div class="large-3 medium-3 small-12 ">
                         <figure>
-                            <img src="assets/img/placeholder/placehold-volunteer.png" alt="News hero">
+                            <img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/placeholder/placehold-volunteer.png" alt="News hero">
                         </figure>
                         <div class="copy">
                             <p>Become a BSAVA volunteer</p>
@@ -212,23 +212,23 @@
                     </div>
                     <div class="large-3 medium-3 small-12 rel">
                         <figure>
-                            <img src="assets/img/placeholder/placehold-petsavers.png" alt="News hero">
+                            <img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/placeholder/placehold-petsavers.png" alt="News hero">
                         </figure>
                         <div class="copy">
                             <p>PetSavers</p>
                             <p class="info">Since 1974 PetSavers has been funding vetinary research</p>
                             <figure>
-                                <img src="assets/img/petsavers-logo.jpg" />
+                                <img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/petsavers-logo.jpg" />
                             </figure>
                             <a href="#_">Visit the website</a>
                         </div>
                         <figure class="abs">
-                            <img src="assets/img/pussy.png" alt="News hero">
+                            <img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/pussy.png" alt="News hero">
                         </figure>
                     </div>
                     <div class="large-3 medium-3 small-12 end">
                         <figure>
-                            <img src="assets/img/placeholder/placehold-regional.png" alt="News hero">
+                            <img src="/Portals/_default/Skins/BSAVA_DNN_SKIN/img/placeholder/placehold-regional.png" alt="News hero">
                         </figure>
                         <div class="copy">
                             <p>Regional CPD</p>
