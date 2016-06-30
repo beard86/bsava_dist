@@ -1,1 +1,0 @@
-Demo Skin Created by Timo Breumelhof for <a href="http://www.40fingers.net" target="_blank">40FINGERS.NET</a>, No active support. This skin is not for production sites.
