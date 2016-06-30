@@ -1,0 +1,43 @@
+#Body{background-color:#eee;color:#000;font-size:12px;font-family:verdana, sans serif;margin:0;padding:0;}
+#MainContainer{width:1000px;margin: 0 auto;border:solid 1px #888;border-width: 0 1px;background:#FFF;}
+#TopLogo{height:60px;background: #bbb;position:relative;}
+.HeaderText{position:absolute;top:4px;left:6px;font-size:13px;color:#FFF;text-transform:uppercase;letter-spacing:1.5;}
+.Login{position:absolute;right:5px;top:5px;}
+#Content {padding:20px;min-height:500px;}
+#Footer{background: #bbb;line-height:25px;font-size:11px;text-align:center;}
+#Footer a:link, #Footer a:visited{font-size:11px;color:#FFF;}
+
+.ClearBoth{clear:both;}
+
+/*-------- Default Style --------*/
+body,th,td,table,h1,h2,h3,h4,h5,h6,.Normal,.NormalDisabled,.Head,.SubHead,.SubSubHead, input, .CommandButton{color:#444; font-family:Verdana, Arial, Helvetica, sans-serif;}
+body,th,td,table,.Normal,.NormalDisabled,.Head,.SubHead,.SubSubHead, a:link, a:visited, a:hover{font-size:11px;}
+h1, h2, h3, h4, h5, h6, h2 input{color:#888;font-weight:bold;margin:1ex 0;}
+h1{font-size:18px;margin:10px 0;}
+h2, h2 input{font-size:14px;}
+h3{font-size:13px;}
+h4{font-size:12px;}
+h5{font-size:11px;}
+h6{font-size:10px;}
+
+a,a:link,a:visited,a:active{color:#F00; text-decoration:none; font-weight:normal; }
+a:hover{color:#D00; text-decoration:underline;}
+.Head{color:#00D;font-weight:bold;}
+.SubHead {color:#008;}
+.SubSubHead{color:#004;}
+.NormalRed {color:#F00;}
+
+/* Menu CSS */
+#MainMenu{background:#bbb;}
+ul.AllMenu{padding-left:10px;margin:0;padding:4px;}
+#MainMenu a:link, #MainMenu a:visited{color:#444;text-decoration:none;}
+#MainMenu a:hover{color:#f00;text-decoration:none;}
+#MainMenu li:hover{background:#fff;}
+
+#MainMenu li.bc{background:#fff;color:#000;}
+#MainMenu li.bc a:link, #MainMenu li.bc a:visited, #MainMenu li.bc a:hover{color:#f00;}
+
+.AllMenu  li{padding:4px 7px;margin:0 2px;background:#eee;}
+.SubMenu li{width:100px;margin-bottom:5px;background:#fff;}
+.SubMenu li.bc a:link, .SubMenu li.bc a:visited{color:#000;}
+#SubMenuHor{padding-top:5px;border-bottom:dotted 1px #bbb;}
