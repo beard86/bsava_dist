@@ -17,7 +17,6 @@
 			        <dnn:LOGIN ID="dnnLOGIN" class="btn cart light-grey-bg" runat="server"></dnn:LOGIN>
 
 		        
-		            <dnn:CART ID="dnnCART" runat="server" class="btn login"></dnn:CART>
         
         
         		</div>
