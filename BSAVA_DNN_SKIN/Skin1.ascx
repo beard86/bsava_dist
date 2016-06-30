@@ -7,17 +7,17 @@
                     <li class="nav-item">
                         <a class="nav-link">MyBSAVA</a>
                     </li>
-                    <li class="nav-item{{#ifpage "landing" }} active{{/ifpage}}"><a class="nav-link">Membership</a>
+                    <li class="nav-item"><a class="nav-link">Membership</a>
                     </li>
-                    <li class="nav-item{{#ifpage "news" }} active{{/ifpage}}"><a class="nav-link">Education</a>
+                    <li class="nav-item"><a class="nav-link">Education</a>
                     </li>
-                    <li class="nav-item{{#ifpage "membership" }} active{{/ifpage}}"><a class="nav-link">Congress</a>
+                    <li class="nav-item"><a class="nav-link">Congress</a>
                     </li>
-                    <li class="nav-item{{#ifpage "internationalBusiness" }} active{{/ifpage}}"><a class="nav-link">Publications</a>
+                    <li class="nav-item"><a class="nav-link">Publications</a>
                     </li>
-                    <li class="nav-item{{#ifpage "exportDocuments" }} active{{/ifpage}}"><a class="nav-link">Resources</a>
+                    <li class="nav-item"><a class="nav-link">Resources</a>
                     </li>
-                    <li class="nav-item{{#ifpage "quickLinks" }} active{{/ifpage}}"><a class="nav-link">News</a>
+                    <li class="nav-item"><a class="nav-link">News</a>
                     </li>
                     <li class="nav-item search">
                         <a href="#_" title="Open search" class="btn search" data-open="globalSearchModal">
@@ -27,6 +27,23 @@
                 </ul>
             </div>
         </nav>
+    </div>
+    <div class="large reveal gbl-search" id="globalSearchModal" data-reveal>
+        <fieldset>
+            <legend>Search</legend>
+            <div class="row small-up-1 medium-up-1 large-up-1">
+                <div class="column">
+                    <label for="txt-global-search">Search term</label>
+                    <input type="text" placeholder="Type something here..." id="txt-global-search" />
+                    <input type="submit" value="Search" />
+                </div>
+            </div>
+            <button class="close-button" data-close="" aria-label="Close reveal" type="button">
+                <span aria-hidden="true">×</span>
+            </button>
+        </fieldset>
+    </div>
+</header>
         <div id="Content">
 		<h1>40Fingers Includes Demo Skin 1</h1>
             <div id="ContentPane" class="ContentPane AllPanes" runat="server">
