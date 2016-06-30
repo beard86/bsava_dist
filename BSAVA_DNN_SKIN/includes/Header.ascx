@@ -3,6 +3,7 @@
 <%@ Register TagPrefix="dnn" TagName="LOGIN" Src="~/Admin/Skins/Login.ascx" %>
 <%@ Register TagPrefix="dnn" TagName="BREADCRUMB" Src="~/Admin/Skins/BreadCrumb.ascx" %>
 <%@ Register TagPrefix="dnn" TagName="NAV" Src="~/Admin/Skins/Nav.ascx" %>
+<%@ Register TagPrefix="dnn" TagName="JavaScriptLibraryInclude" Src="~/admin/Skins/JavaScriptLibraryInclude.ascx" %>
 
 <div id="wrapper">
         <header>
@@ -16,7 +17,7 @@
 			        <dnn:LOGIN ID="dnnLOGIN" class="btn cart light-grey-bg" runat="server"></dnn:LOGIN>
 
 		        
-		            <dnn:LOGIN ID="dnnLOGIN" runat="server" class="btn login"></dnn:LOGIN>
+		            <dnn:CART ID="dnnCART" runat="server" class="btn login"></dnn:CART>
         
         
         		</div>
